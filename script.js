@@ -14,7 +14,8 @@ var norms = [
   'We frequently practice the “Around the Horn” tradition.',
   'A sense of humor is a job requirement.',
   'This is a new WMP norm',
-  'This is a new WMP norm too'
+  'This is a new WMP norm too',
+  'This is a third WMP norm'
 ];
 
 function printRandomNorm() {
